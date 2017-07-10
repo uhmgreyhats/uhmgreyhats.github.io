@@ -12,11 +12,11 @@ url: "https://uhmgreyhats.github.io/"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: 
+baseurl:
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-86663423-2"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Grey Hats UHM"
 title: "Grey Hats UHM"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Official Grey Hats at UHM club website."
+keywords: "grey, hats, uhm, uh manoa, manoa, university of hawaii at manoa, grey hats, cybersecurity, cyber, hacker"
 favicon: "/img/favicon.ico"
 
 ################
@@ -146,7 +146,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "greyhats@hawai.edu"
+email: "greyhats@hawaii.edu"
 
 ################
 # Author Blurb #
@@ -156,7 +156,7 @@ email: "greyhats@hawai.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: ""
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -164,16 +164,8 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/uhmgreyhats"
 
 ############
 # 404 page #
@@ -185,9 +177,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-username:
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
