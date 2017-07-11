@@ -122,7 +122,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 syntax-highlight: True
 
@@ -189,7 +189,7 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Announcements: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
