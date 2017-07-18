@@ -445,3 +445,19 @@ body {
 .fourofour {
   border: 1px solid $primary-color !important;
 }
+
+.calendar-desktop, .calendar-mobile {
+  display: none;
+}
+
+@media screen and (min-width: 481px) {
+  .calendar-desktop {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .calendar-mobile {
+    display: block;
+  }
+}

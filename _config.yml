@@ -39,14 +39,13 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/logo.ico"
 
 background-img: "../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
 ##############################
-
 dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
@@ -55,10 +54,13 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Viva la France!"
+  - text: "Fuck it, Ship it"
+  - text: "Works on my machine"
+  - text: "If it works 99% of the time, it's 100% wrong"
+  - text: "Fish meme is best meme"
 
-me-img: "/img/jetpacktocat.png"
+# me-img: "/img/logo.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -71,7 +73,7 @@ me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/user_name.png?size=500"
+me-img: "https://github.com/uhmgreyhats.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
@@ -94,12 +96,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
+icon-36p: "/img/web-app/logo-36p.png"
+icon-48p: "/img/web-app/logo-48p.png"
+icon-72p: "/img/web-app/logo-72p.png"
+icon-96p: "/img/web-app/logo-96p.png"
+icon-144p: "/img/web-app/logo-144p.png"
+icon-192p: "/img/web-app/logo-192p.png"
 
 ########
 # Blog #
@@ -130,17 +132,17 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-
-# First image of the Timeline
-
-timeline-img: "/img/timeline/default.png"
+# events:
+#   - image: "/img/timeline/spidertocat.png"
+#     date: "September 2013 - Today"
+#     description: "Saving the neighborhood!"
+#   - image: "/img/timeline/baracktocat.jpg"
+#     date: "September 2007 - August 2013"
+#     description: "Started coding"
+#
+# # First image of the Timeline
+#
+# timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
@@ -190,7 +192,8 @@ keybase-in-footer: False
 pages_list:
   About: 'about'
   Announcements: 'latest-post'
-  Timeline: 'timeline'
+  # Timeline: 'timeline'
+  Calendar: 'calendar'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
