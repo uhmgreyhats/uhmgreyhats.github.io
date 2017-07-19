@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/logo.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/home.jpeg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -57,7 +57,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Viva la France!"
   - text: "Fuck it, Ship it"
   - text: "Works on my machine"
-  - text: "If it works 99% of the time, it's 100% wrong"
+  - text: "If it works 99% of the time, it's 100% wrong, but 200% good enough"
   - text: "Fish meme is best meme"
 
 # me-img: "/img/logo.png"
