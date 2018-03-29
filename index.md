@@ -17,6 +17,6 @@ greyhats@hawaii.edu
 https://greyhatsuhm.slack.com/
 
 <center>
-	<img src="greyhats.png"></img>
+	<img src="greyhats.png"/>
 </center>
 
