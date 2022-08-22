@@ -6,7 +6,9 @@ layout: default
 
 Grey Hats at UH Manoa is a student-led Registered Independent Organization (RIO) for students who want to learn about cybersecurity and hacking more practically. Our club offers opportunities to learn and apply information security through weekly meetings on competitions and a variety of security topics.
 
+
 A selection of our topics includes hacking computers, information gathering, and securing computing systems.
+
 
 Our club is open to everyone; beginners, non-ICS majors, and others are all welcomed.
 
@@ -36,6 +38,7 @@ Our club is open to everyone; beginners, non-ICS majors, and others are all welc
 # [](#contact)Contact
 
 Discord: discord.gg/CfsAJWMV8R
+
 Email: greyhats@hawaii.edu
 
 <center>
