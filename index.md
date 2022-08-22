@@ -37,9 +37,8 @@ Our club is open to everyone; beginners, non-ICS majors, and others are all welc
 
 # [](#contact)Contact
 
-Discord: discord.gg/CfsAJWMV8R
-
-Email: greyhats@hawaii.edu
+- Discord: discord.gg/CfsAJWMV8R
+- Email: greyhats@hawaii.edu
 
 <center>
 	<img src="greyhats.png"/>
