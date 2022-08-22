@@ -4,17 +4,39 @@ layout: default
 
 # [](#about)About
 
-The Grey Hats is a student-led, extracurricular organization focused on real-world training for cyber defense. Membership gives students an outstanding opportunity to learn and apply critical skills, attack and defend systems, and to network with others interested in modern security issues.
+Grey Hats at UH Manoa is a student-led Registered Independent Organization (RIO) for students who want to learn about cybersecurity and hacking more practically. Our club offers opportunities to learn and apply information security through weekly meetings on competitions and a variety of security topics.
 
-# [](#calendar)Calendar
+A selection of our topics includes hacking computers, information gathering, and securing computing systems.
 
-<iframe src="https://calendar.google.com/calendar/embed?title=Grey%20Hats&amp;height=600&amp;wkst=1&amp;bgcolor=%23cccccc&amp;src=greyhats%40hawaii.edu&amp;color=%2329527A&amp;ctz=Pacific%2FHonolulu" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+Our club is open to everyone; beginners, non-ICS majors, and others are all welcomed.
+
+# [](#mainevents)Main Events
+
+## Cybersecurity presentations
+  - Seminar meetings on a variety of topics in the cybersecurity field (See a list of topics below).
+  - Weekly on Tuesdays, 4:30pm.
+
+## Competitions meetings
+  - Informal meetings focused on learning specific skills that are used in competitions.
+  - Weekly on Thursdays, time TBA.
+
+# [](#topics)Topics
+
+  - Introductions & OSINT (09/06)
+  - Metasploit (09/13)
+  - Linux (09/20)
+  - Virtualization (09/27)
+  - Software Reverse Engineering (10/04)
+  - Career Development (10/11)
+  - Vulnerability (10/18)
+  - Cryptography (10/25)
+  - SIGINT (11/1)
+  - Cyber in Combat (11/15)
 
 # [](#contact)Contact
 
-greyhats@hawaii.edu
-
-https://greyhatsuhm.slack.com/
+Discord: discord.gg/CfsAJWMV8R
+Email: greyhats@hawaii.edu
 
 <center>
 	<img src="greyhats.png"/>
