@@ -65,8 +65,8 @@ Oct 16 : Competition date
 Email: greyhats@hawaii.edu
 
 
-# [](#piracy)Pirate Schemes!
-<a href="PentestPiratesExtras/pentestpirates.html" class="btn btn-outline-dark">Secret agenda. Pirates only!</a>
+# [](#piracy) Pirate Schemes! (Verified buccaneers only)
+<a href="PentestPiratesExtras/pentestpirates.html" class="btn btn-outline-dark">Pentest Pirate Portal</a>
 
 
 <center>
