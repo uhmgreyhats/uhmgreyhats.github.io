@@ -31,7 +31,7 @@ Our club is open to everyone; beginners, non-ICS majors, and others are all welc
   | - 09/24  | OSINT                            |
   | - 10/01  | Guest Speaker Mehdi!             | 
   | - 10/15  | General Computer Lockdown        |
-  | - 10/22  | Cryptography & Password cracking |
+  | - 10/22  | Password cracking |
   | - 10/29  | Halloween social with Cyber Security Awareness   |
   | - 11/05  | **No meeting** Holiday           |
   | - 11/12  | Network security                 |
@@ -50,7 +50,7 @@ Our club is open to everyone; beginners, non-ICS majors, and others are all welc
  
 ### NCL 
 Note: Registration due Oct 11
- 
+
 10/25 - 27 : Individual Game
 11/08 - 10 : Team Game
 
@@ -64,7 +64,12 @@ Oct 16 : Competition date
 
 Email: greyhats@hawaii.edu
 
+
+# [](#piracy) Pirate Schemes! (Verified buccaneers only)
+<a href="PentestPiratesExtras/pentestpirates.html" class="btn btn-outline-dark">Pentest Pirate Portal</a>
+
+
 <center>
-	<img src="greyhats.png"/>
+	<img style="width:460px" src="/PentestPiratesExtras/piratehat.png"/>
 </center>
 
