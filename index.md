@@ -48,16 +48,16 @@ Our club is open to everyone; beginners, non-ICS majors, and others are all welc
 
 # [](#competitions)Competitions
  
- ### NCL 
- Note: Registration due Oct 11
+### NCL 
+Note: Registration due Oct 11
  
- 10/25 - 27 : Individual Game
- 11/08 - 10 : Team Game
+10/25 - 27 : Individual Game
+11/08 - 10 : Team Game
 
- ### Hivestorm
- Note: Registration due Sept 30 (closed)
+### Hivestorm
+Note: Registration due Sept 30 (closed)
 
- Oct 16 : Competition date
+Oct 16 : Competition date
  
 
 # [](#contact)Contact

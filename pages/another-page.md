@@ -18,4 +18,4 @@ Here be tales o' adventure, treasure maps, 'n ancient mysteries. But remember, m
 
 Fair winds 'n followin' seas, ye daring buccaneer!
 
-[back](./)
+[Home Page](./..)
