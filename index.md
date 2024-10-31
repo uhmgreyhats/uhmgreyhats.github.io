@@ -59,16 +59,29 @@ Note: Registration due Sept 30 (closed)
 
 Oct 16 : Competition date
 
+# [](#events)Events
+ - 10/03 : Resume Day at iLab
+ - 10/11 : Careers in Intelligence & Technology
+ - 10/29 : Halloween social  with SWITCH
+
+# [](#competitions)Competitions
+ 
+### NCL 
+Note: Registration due Oct 11
+
+10/25 - 27 : Individual Game
+11/08 - 10 : Team Game
+
+### Hivestorm
+Note: Registration due Sept 30 (closed)
+
+Oct 16 : Competition date
+
 # [](#contact)Contact
 
 Email: greyhats@hawaii.edu
 
-
-# [](#piracy) Pirate Schemes! (Verified buccaneers only)
-<a href="PentestPiratesExtras/pentestpirates.html" class="btn btn-outline-dark">Pentest Pirate Portal</a>
-
-
 <center>
-	<img style="width:460px" src="/PentestPiratesExtras/piratehat.png"/>
+	<img src="/assets/images/GreyHatsLogo.png"/>
 </center>
 
