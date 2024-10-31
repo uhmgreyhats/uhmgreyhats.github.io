@@ -58,7 +58,6 @@ Note: Registration due Oct 11
 Note: Registration due Sept 30 (closed)
 
 Oct 16 : Competition date
- 
 
 # [](#contact)Contact
 
