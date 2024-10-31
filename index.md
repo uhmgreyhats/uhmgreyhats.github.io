@@ -38,11 +38,28 @@ Our club is open to everyone; beginners, non-ICS majors, and others are all welc
   | 12/10  | End of semester social           |
 
 
+# [](#events)Events
+ - 10/03 : Resume Day at iLab
+ - 10/11 : Careers in Intelligence & Technology
+ - 10/29 : Halloween social  with SWITCH
+
+# [](#competitions)Competitions
+ 
+### NCL 
+Note: Registration due Oct 11
+
+10/25 - 27 : Individual Game
+11/08 - 10 : Team Game
+
+### Hivestorm
+Note: Registration due Sept 30 (closed)
+
+Oct 16 : Competition date
+
 # [](#contact)Contact
 
 Email: greyhats@hawaii.edu
-
 <center>
-	<img src="greyhats.png"/>
+	<img src="/assets/images/GreyHatsLogo.png"/>
 </center>
 
